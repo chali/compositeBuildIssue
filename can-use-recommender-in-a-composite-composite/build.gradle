@@ -1,0 +1,8 @@
+// Running test for can-use-recommender-in-a-composite
+allprojects {
+    group 'example'
+}
+
+subprojects {
+    apply plugin: 'java'
+}

@@ -1,0 +1,5 @@
+apply plugin: 'java'
+
+dependencies {
+    compile 'example:b:1.0.0'
+}

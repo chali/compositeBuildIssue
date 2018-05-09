@@ -1,0 +1,3 @@
+rootProject.name='can-use-recommender-in-a-composite'
+include 'a'
+include 'b'
